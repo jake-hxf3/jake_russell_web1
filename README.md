@@ -1,5 +1,5 @@
 # Project Name
-![brand logo](images/Logo.svg)
+![a guy drinking energy drink on a ride](images/qu3nch-01.jpg)
 
 This is a project about QU3NCH! Energy Drink brand.
 
