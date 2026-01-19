@@ -1,7 +1,7 @@
 # Project Name
-![insert alt text](images/example.jpg)
+![brand logo](images/logo.svg)
 
-This is a project about [insert topic].
+This is a project about QU3NCH! Energy Drink brand.
 
 ## Installation 💻
 No installation required, simply download the zip file and extract.
