@@ -96,7 +96,7 @@ article {
 
     p{
         font-size: 14px;
-        font-weight: 450;
+        font-weight: 500;
         line-height: 23px;
     }
 
@@ -104,8 +104,8 @@ article {
         margin-top: 12px;
     }
 
-    section img {
-        box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.64);
+    article img {
+        box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.3);
     }
 
     .double-img {
