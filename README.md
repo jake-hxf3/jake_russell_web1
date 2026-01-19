@@ -1,7 +1,7 @@
 # Project Name
 ![a guy drinking energy drink on a ride](images/Logo.svg)
 
-This is a project about QU3NCH! Energy Drink brand.
+This is a project about **QU3NCH!** Energy Drink brand.
 
 ## Installation 💻
 No installation required, simply download the zip file and extract.
