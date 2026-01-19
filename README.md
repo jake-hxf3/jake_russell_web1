@@ -1,12 +1,13 @@
 # Project Name
 ![a guy drinking energy drink on a ride](images/Logo.svg)
 
-This is a project about **QU3NCH!** Energy Drink brand.
+This is a project about **QU3NCH!** energy drink brand.
 
 ## Installation 💻
 No installation required, simply download the zip file and extract.
 ## Usage
 Open index.html in the browser of your choice and see the website.
+For typography focused website, view the "plain" branch.
 
 ## Contributing 
 1. Fork it!
