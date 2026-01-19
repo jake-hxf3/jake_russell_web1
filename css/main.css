@@ -6,11 +6,6 @@
    background-color: #DFFFFD;
 }
 
-/*@font-face {
-    font-family: Oxanium;
-    src: url('../fonts/Oxanium-VariableFont_wght.woff') format('woff'), url('../fonts/Oxanium-VariableFont_wght.woff2') format('woff2');
-} */
-
 body {
     font-family: 'Oxanium', Arial, sans-serif;
 }
