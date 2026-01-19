@@ -1,3 +1,18 @@
-.hidden{
-    display: none;
+#mobile-outline {
+   outline: 20px solid #333;
+   max-width: 412px;
+   margin: 20px auto 20px auto;
+   border-radius: 10px;
+   background-color: #DFFFFD;
 }
+
+/*@font-face {
+    font-family: Oxanium;
+    src: url('../fonts/Oxanium-VariableFont_wght.woff') format('woff'), url('../fonts/Oxanium-VariableFont_wght.woff2') format('woff2');
+} */
+
+body {
+    font-family: 'Oxanium', Arial, sans-serif;
+}
+
+
