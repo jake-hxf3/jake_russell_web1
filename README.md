@@ -1,4 +1,4 @@
-# Project Name
+# Web Development - Typography
 ![a guy drinking energy drink on a ride](images/Logo.svg)
 
 This is a project about **QU3NCH!** energy drink brand.
